@@ -51,5 +51,4 @@ Thumbs.db
 # Project specific
 # Add any project-specific files or directories that shouldn't be tracked
 *.mp3
-*.wav
 *.ogg

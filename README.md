@@ -56,6 +56,7 @@ DEBOUNCE_SECONDS=10
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate      # Linux/macOS
+source .venv/Scripts/Activate  # Windows Bash
 .venv\Scripts\Activate.ps1     # Windows PowerShell
 pip install --upgrade pip setuptools wheel
 pip install -r requirements.txt
