@@ -52,3 +52,4 @@ Thumbs.db
 # Add any project-specific files or directories that shouldn't be tracked
 *.mp3
 *.ogg.venv/
+.venv/
